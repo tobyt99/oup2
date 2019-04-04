@@ -1,0 +1,1 @@
+docker container run -it -v $PWD:/app oupm /bin/bash
